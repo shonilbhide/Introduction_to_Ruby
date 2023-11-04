@@ -57,7 +57,7 @@ To get started with Ruby on a Windows system, follow these steps:
    ```shell
    ruby -v
 
-Additional Resources
-[Ruby Official Website](https://www.ruby-lang.org/en/): The official Ruby programming language website.
-[Ruby Documentation](https://ruby-doc.org/): Official Ruby documentation with guides and references.
-[Ruby on Rails](https://rubyonrails.org/): If you are interested in web development, check out Ruby on Rails, a popular web framework built on Ruby.
+## Additional Resources
+- [Ruby Official Website](https://www.ruby-lang.org/en/): The official Ruby programming language website.
+- [Ruby Documentation](https://ruby-doc.org/): Official Ruby documentation with guides and references.
+- [Ruby on Rails](https://rubyonrails.org/): If you are interested in web development, check out Ruby on Rails, a popular web framework built on Ruby.
